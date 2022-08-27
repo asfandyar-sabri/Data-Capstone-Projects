@@ -1,4 +1,4 @@
-# Data-Capstrone-Projects
+# Data-Capstone-Projects
 The repository contains two data capstone projects.
 1. 911 Calls Project. 
 2. Finance Project
